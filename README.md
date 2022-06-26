@@ -2,7 +2,7 @@
 HSE DS7 Deep Learning Course home works solutions by Alex Shkil
 
 ## Description
-Acoarding to the tutor's recomendation all home works have to submit as github repo. This repo store my solutions of HSE Summer 2022 Deep learning course home works.
+According to the tutor's recommendation all home workers have to submit as github repo. This repo store my solutions of HSE Summer 2022 Deep learning course home works.
 
 ## Contents
 in progress ...
