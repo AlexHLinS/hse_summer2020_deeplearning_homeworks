@@ -6,3 +6,5 @@ According to the tutor's recommendation all home workers have to submit as githu
 
 ## Contents
 Homework 1: [hw_1/sem1_my_first_neural_network_ShkilAA.ipynb](hw_1/sem1_my_first_neural_network_ShkilAA.ipynb)
+
+Homework 2: [hw_2/shkilaa_hw2.ipynb](hw_1/sem1_my_first_neural_network_ShkilAA.ipynb)
